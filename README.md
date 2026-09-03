@@ -186,11 +186,11 @@ En el área de los entornos inteligentes y el Internet de las Cosas (IoT), resul
 
 ## 11. Resultados de Prueba
 
-* **Monitor Serie del Transmisor (Arduino UNO):
-* **Monitor Serie del Gateway (ESP32):
-<img width="1845" height="535" alt="Captura de pantalla..." src="https://github.com/user-attachments/assets/..." />
-* **Página Web en tiempo real:** Captura de la interfaz web mostrando la recepción dinámica de los registros en la tabla.
-<img width="1845" height="535" alt="Captura de pantalla..." src="https://github.com/user-attachments/assets/..." />
+* **Monitor Serie del Transmisor (Arduino UNO):**
+* **Monitor Serie del Gateway (ESP32):**
+<img width="1600" height="900" alt="Imagen1" src="https://github.com/user-attachments/assets/734d7bfc-ad59-4440-8453-ba54aab322f8" />
+* **Página Web en tiempo real:**
+<img width="1600" height="900" alt="Imagen2" src="https://github.com/user-attachments/assets/a9c36548-b590-4b9c-b0a1-501456d7e9a3" />
 
 ---
 
