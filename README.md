@@ -188,9 +188,9 @@ En el área de los entornos inteligentes y el Internet de las Cosas (IoT), resul
 
 * **Monitor Serie del Transmisor (Arduino UNO):
 * **Monitor Serie del Gateway (ESP32):
-* blob:https://web.whatsapp.com/00c7e052-035c-4655-8e0a-3be0341a14ba
+<img width="1845" height="535" alt="Captura de pantalla..." src="https://github.com/user-attachments/assets/..." />
 * **Página Web en tiempo real:** Captura de la interfaz web mostrando la recepción dinámica de los registros en la tabla.
-* blob:https://web.whatsapp.com/df6a7871-f0f3-449b-99d0-c91ff4a94e72
+<img width="1845" height="535" alt="Captura de pantalla..." src="https://github.com/user-attachments/assets/..." />
 
 ---
 
